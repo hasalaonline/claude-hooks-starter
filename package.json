@@ -1,0 +1,13 @@
+{
+  "name": "claude-hooks-starter",
+  "version": "1.0.0",
+  "description": "Five practical Claude Code hooks: guardrails, auto-format, a test gate and desktop pings",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
